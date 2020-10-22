@@ -5,3 +5,7 @@ Please select your operating system below for the detailed installation instruct
 * [OS X](osx-installation.md)
 * [Windows](windows-installation.md)
 * [Linux (Ubuntu)](ubuntu-installation.md)
+
+# my changes
+
+* will be adding self notes directly in the code file.
